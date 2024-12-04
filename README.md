@@ -11,16 +11,11 @@
 
 
 🌟 Featured Projects
-- **[Option Pricing in VBA](https://github.com/AnneLouiseRigole/option-pricing):**
+- **[Option Pricing in VBA]([https://github.com/ALouise/Pricing-d-options-exotiques-via-simulations-Monte-Carlo]):**
   Developed a pricing tool for vanilla and compound options using the Black-Scholes-Merton model.
   
-- **[Quant Backtester in Python](https://github.com/AnneLouiseRigole/quant-backtester):**
+- **[Quant Backtester in Python]([https://github.com/ALouise/backtesterMoyGlissante]):**
   Built a backtesting framework for financial strategies from scratch, focusing on performance and flexibility.
-
-- **[Data Visualization Dashboard](https://github.com/AnneLouiseRigole/data-visualization):**
-  Created a dashboard for financial data analysis and visualization using Python and Pandas.
-
----
 
 🎯 Interests
 - **Finance**: Quantitative trading, algorithmic strategies, asset pricing  
